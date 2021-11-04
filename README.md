@@ -6,7 +6,7 @@ Meta Metaverse is a 360 degree virtual reality map with digital asset backing in
 
 In Meta Metaverse you play and develop land. This can be either by importing renders from other commonly used software or using our in world editor. in addition to creating beautiful virtual land experience, there is also a play to earn game in that each person can get their own land and have people develop them and resell them. Multiple layers of game play are envisioned and encouraged, including exploration, scavenger hunts, coin collection, and more. 
 
-For the metaverses, our initial seeding is focused on high quality voxel art and are currently onboarding artists. 
+For the metaverses, our initial seeding is focused on high quality voxel art and are currently onboarding artists.  We ultimately believe this will become the ultimate platform for building metaverses, including the corporate variety. 
 
 Like other metaverses, there is a proximity function to the core (i.e. star) whereby various cubes are more or less distant from the core and thus take longer to travel to. This makes land that is closer to naturally more valuable. For assessing distance, we plan to sell it at a certain distance but make the distance able to be able to be created algorithmically (i.e. the distance can be a function of land value, amount of foot traffic on the land, etc.) and defined by the star’s owner. 
 
