@@ -2,9 +2,11 @@
 ## play to earn metaverse building game
 
 
-Meta Metaverse is a 360 degree virtual reality map with digital asset backing in which each land mass is a 100x100x100 land mass which be can subdivided and developed at multiple scale factors. This effectively makes it like the fractal zoom of metaverses. Each landmass is anchored to a star and the distance from the star can be variable and determined by the star owner. 
+Meta Metaverse is a 360 degree virtual reality map with digital asset backing in which each land mass is a 100x100x100 cube which be can subdivided and developed at multiple scale factors. This effectively makes it like the fractal zoom of metaverses. Each landmass is anchored to a star and the distance from the star can be variable and determined by the star owner. 
 
 We are focusing on high quality voxel art and are currently onboarding artists. 
+
+That said, it is also a play to earn game in that each person can get their own land and have people develop them and resell them. Multiple layers of game play are envisioned. 
 
 Like other metaverses, there is a proximity function to the core (i.e. star) whereby various cubes are more or less distant from the core and thus take longer to travel to. This makes land that is closer to naturally more valuable. For assessing distance, we plan to sell it at a certain distance but make the distance able to be able to be created algorithmically (i.e. the distance can be a function of land value, amount of foot traffic on the land, etc.) and defined by the star’s owner. 
 
