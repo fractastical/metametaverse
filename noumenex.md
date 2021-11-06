@@ -6,7 +6,9 @@
 Process optimization for bridging experience between two nodes (e.g. persons) including the direct passing of a complex phenomenon that cannot easily be expressed in a word.
 
 Problem: I want to express an idea like "the cat is on the table"
+
 Solution: I use my mouth to utter the words "the cat is on the table." Other person hears the phrase and understands that the cat is on the table.
+
 Solution map:  (node1((idea (noun(location)) -> (mouth(phrase))) -> (node2(ear(brain-interpreter)) -> (idea (noun(location)))
 Additional context: both parties (node1 and node2) must have already seen "the cat" and have a mental model of what that describes. 
 
@@ -17,7 +19,9 @@ Speed is the time it takes to finish the process. In this case, a matter of seco
 Now the problem is that with more complex ideas (more strictly "noumena") both of these functions are harder to express. The testing function is harder to bring to a binary ouput and the time to express increases. 
 
 Problem: I want to express an idea like "the dodecahedron is inside the third metaverse on the left"
+
 Solution: I create Rendering through a set of objects and rendering engines, I load them into virtual reality glasses. I give them to other person. They put on the glasses and observe. 
+
 Solution map:  (node1((idea (noun(location)) -> (rendering engine(object))) -> (node2(vr-goggles(eyes(brain-interpreter)) -> (idea (noun(location)))
 
 In the first example we used standard motor functions and sensory organs with the middleware layer of soundwaves which both our vocal organs and auditory organs are preconfigured for. In this second example we have a more complex middleware layer that consists of a mix of proprietary hardware and software which has a similar function, namely transmitting complex data forms into a visually accessible format. 
