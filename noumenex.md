@@ -24,7 +24,7 @@ In the first example we used standard motor functions and sensory organs with th
 
 As with our two optimization parameters from the first example, fidelity and speed, we are now in the place where we can make reliable comparisons between different media types and comparison mechanisms. Moreover, these can be optimized for. 
 
-Capital, a capital deployment and organizational cycle can be designed that exists with the optimization for these variables. 
+Consequently, a capital deployment and product delivery cycle can be designed that consists of the optimization for these variables. 
 
 
 
