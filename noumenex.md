@@ -42,13 +42,33 @@ In order to explore, this does require that the client be able to load multiple 
 
 This effectively makes Noumenex a universal language for traversing all metaverses. 
 
-### Actions in this language
+### Verbs in this language
 
-One key type of action in the meta metaverse is "zoom"
 
-(1,2,3) -> (zoom(2)) -> (3,2,3) 
+#### GO
+ 
+
+-> (1,2,3) 
+
+Go to coordinates (1,2,3) 
+
+ 
+#### Zoom
+
+
+One key type of action specific the meta metaverse is "zoom"
+
+-> (1,2,3) -> (zoom(2)) -> (3,2,3) 
 
 Go to  (1,2,3) then zoom 2 scale factors then go +3 in the x coordinates, +2 in the y coordinates, and +3 in the z coordinates 
+
+
+#### Rotate
+
+Rotating refers to the users view orientation  
+
+-> (1,2,3) -> Rotate(20d,-20d) 
+
 
 
 
