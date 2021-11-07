@@ -63,7 +63,14 @@ One key type of action specific the meta metaverse is "zoom"
 Go to  (1,2,3) then zoom 2 scale factors then go +3 in the x coordinates, +2 in the y coordinates, and +3 in the z coordinates 
 
 
-#### Rotate
+#### Insert
+
+-> (1,2,3) -> (insert(house.xtz240.ipfs.org)) 
+
+Insert a house at the coordinates (1,2,3) 
+
+
+#### Rotate (not sure this is necessary) 
 
 Rotating refers to the users view orientation  
 
