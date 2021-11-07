@@ -30,6 +30,11 @@ As with our two optimization parameters from the first example, fidelity and spe
 
 Consequently, a capital deployment and product delivery cycle can be designed that consists of the optimization for these variables. 
 
+### Additional challenges 
+
+Many topical matters (abstract geometries, synesthesic poetic experiences, pheromones, dreams) do not immediately or easily lend themselves to direct communication with other parties. That said, our language is perhaps the first to make them accessible. Additionally, while with an emphasis on the visual, it is by no means exclusively limited to such, and the relative increase in availablity of certain technologies (i.e. AR/VR/MR) allows the data transfer rate to rapidly increase with more complex and synesthesic experiences. This means that "noumenex" as a language is potentially the ultimate dense and meaningful expressiveness yet known to humanity.  
+
+
 ### Nouns in this language
 
 Reference has already been made to location. Location can be releative (with reference to a known object) or absolute, with respect to a known coordinate system. In metaverses, an effort has been made to provide a universal nomenclature that can be used for all locations in all metaverses. The way we do this is as follows, starting with the meta metaverse each location can be described as a vector (x,y,z) from the central point (0,0,0). 
