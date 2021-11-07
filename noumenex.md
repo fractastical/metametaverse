@@ -1,7 +1,7 @@
 # Noumenex
 ## Metaverse language
 
-### Reason
+### Rationale: Language as an optimization function
 
 Process optimization for bridging experience between two nodes (e.g. persons) including the direct passing of a complex phenomenon that cannot easily be expressed in a word.
 
@@ -30,5 +30,14 @@ As with our two optimization parameters from the first example, fidelity and spe
 
 Consequently, a capital deployment and product delivery cycle can be designed that consists of the optimization for these variables. 
 
+### Nouns in this language
 
+Reference has already been made to location. Location can be releative (with reference to a known object) or absolute, with respect to a known coordinate system. In metaverses, an effort has been made to provide a universal nomenclature that can be used for all locations in all metaverses. The way we do this is as follows, starting with the meta metaverse each location can be described as a vector (x,y,z) from the central point (0,0,0). 
 
+If each point can also be a portal which includes a transform, including of the rendering engine, then each vector (or set of vectors) can resolve to a specific point in another metaverse. 
+
+(1,2,3) -> (metaverse2.url(renderingEngine))  
+
+In order to explore, this does require that the client be able to load multiple rendering engines in order to go from one metaverse to the next. 
+
+This effectively makes Noumenex a universal language for traversing all metaverses. 
