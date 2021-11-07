@@ -41,3 +41,15 @@ If each point can also be a portal which includes a transform, including of the 
 In order to explore, this does require that the client be able to load multiple rendering engines in order to go from one metaverse to the next. 
 
 This effectively makes Noumenex a universal language for traversing all metaverses. 
+
+### Actions in this language
+
+One key type of action in the meta metaverse is "zoom"
+
+(1,2,3) -> (zoom(2)) -> (3,2,3) 
+
+Go to  (1,2,3) then zoom 2 scale factors then go +3 in the x coordinates, +2 in the y coordinates, and +3 in the z coordinates 
+
+
+
+
