@@ -9,7 +9,7 @@ Problem: I want to express an idea like "the cat is on the table"
 
 Solution: I use my mouth to utter the words "the cat is on the table." Other person hears the phrase and understands that the cat is on the table.
 
-Solution map:  (node1((idea (noun(location)) -> (mouth(phrase))) -> (node2(ear(brain-interpreter)) -> (idea (noun(location)))
+Solution map:  `(node1((idea (noun(location)) -> (mouth(phrase))) -> (node2(ear(brain-interpreter)) -> (idea (noun(location)))`
 Additional context: both parties (node1 and node2) must have already seen "the cat" and have a mental model of what that describes. 
 
 For the solution map we can optimize for two functions, fidelity and speed. Fidelity is defined as the extent to which the object (in this case (noun(location) ) is the same in the original node (mind of person 1) and in the second node (mind of person 2). In this case, various testing functions are possible. For example, asking the question to both parties: Where is the cat?  What is on the table? This forces the knowledge transfer function to an effectively binary conclusion.  
@@ -22,7 +22,7 @@ Problem: I want to express an idea like "the dodecahedron is inside the third me
 
 Solution: I create Rendering through a set of objects and rendering engines, I load them into virtual reality glasses. I give them to other person. They put on the glasses and observe. 
 
-Solution map:  (node1((idea (noun(location)) -> (rendering engine(object))) -> (node2(vr-goggles(eyes(brain-interpreter)) -> (idea (noun(location)))
+Solution map:  `(node1((idea (noun(location)) -> (rendering engine(object))) -> (node2(vr-goggles(eyes(brain-interpreter)) -> (idea (noun(location)))`
 
 In the first example we used standard motor functions and sensory organs with the middleware layer of soundwaves which both our vocal organs and auditory organs are preconfigured for. In this second example we have a more complex middleware layer that consists of a mix of proprietary hardware and software which has a similar function, namely transmitting complex data forms into a visually accessible format. 
 
@@ -41,7 +41,7 @@ Reference has already been made to location. Location can be releative (with ref
 
 If each point can also be a portal which includes a transform, including of the rendering engine, then each vector (or set of vectors) can resolve to a specific point in another metaverse. 
 
-(1,2,3) -> (metaverse2.url(renderingEngine))  
+`(1,2,3) -> (metaverse2.url(renderingEngine))`
 
 In order to explore, this does require that the client be able to load multiple rendering engines in order to go from one metaverse to the next. 
 
@@ -53,7 +53,7 @@ This effectively makes Noumenex a universal language for traversing all metavers
 #### GO
  
 
--> (1,2,3) 
+`-> (1,2,3)` 
 
 Go to coordinates (1,2,3) 
 
@@ -63,14 +63,14 @@ Go to coordinates (1,2,3)
 
 One key type of action specific the meta metaverse is "zoom"
 
--> (1,2,3) -> (zoom(2)) -> (3,2,3) 
+`-> (1,2,3) -> (zoom(2)) -> (3,2,3) `
 
 Go to  (1,2,3) then zoom 2 scale factors then go +3 in the x coordinates, +2 in the y coordinates, and +3 in the z coordinates 
 
 
 #### Insert
 
--> (1,2,3) -> (insert(house.xtz240.ipfs.org)) 
+`-> (1,2,3) -> (insert(house.xtz240.ipfs.org)) `
 
 Insert a house at the coordinates (1,2,3) 
 
@@ -79,7 +79,7 @@ Insert a house at the coordinates (1,2,3)
 
 Rotating refers to the users view orientation  
 
--> (1,2,3) -> Rotate(20d,-20d) 
+`-> (1,2,3) -> Rotate(20d,-20d) `
 
 
 
