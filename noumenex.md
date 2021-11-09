@@ -84,4 +84,6 @@ Rotating refers to the users view orientation
 
 
 
+TOADD: Metadata encompassing ms for data transfer per step, fidelity, testing formulas, testing framework, graphics of user interfaces. 
+
 
