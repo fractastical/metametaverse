@@ -112,10 +112,10 @@ Get location as a set of ethereum address (including DAOs) that have edit access
 Returns if the given address has access rights or not 
 
 
-'function balanceOf(address owner) public view virtual override returns (uint256)
-    function ownerOf(uint256 tokenId) public view virtual override returns (address) 
-    function name() public view virtual override returns (string memory) 
-    function symbol() public view virtual override returns (string memory) 
+
+### Standard ERC721 functions that must also be supported 
+
+
 
 
 `contract ERC721 is Context, ERC165, IERC721,IERC721Metadata {
