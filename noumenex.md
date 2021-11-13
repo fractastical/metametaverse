@@ -82,6 +82,12 @@ Rotating refers to the users view orientation
 `-> (1,2,3) -> Rotate(20d,-20d) `
 
 
+### Access Control
+
+
+`-> (1,2,3) -> (access(insert(house.xtz240.ipfs.org)),guildDAO(edit))`
+
+Move cursor to 1,2,3. Insert a house, Give guildDAO members access to edit the space. 
 
 
 TOADD: Metadata encompassing ms for data transfer per step, fidelity, testing formulas, testing framework, graphics of user interfaces. 
