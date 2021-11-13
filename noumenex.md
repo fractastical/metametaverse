@@ -1,5 +1,5 @@
 # Noumenex
-## Metaverse language
+## Universal locator metaverse language
 
 ### Rationale: Language as an optimization function
 
