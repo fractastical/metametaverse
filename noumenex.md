@@ -89,6 +89,131 @@ Rotating refers to the users view orientation
 
 Move cursor to 1,2,3. Insert a house, Give guildDAO members access to edit the space. 
 
+Practically speaking this will need to be included as an addition to a token specification  
+
+`getAccessControl(type.edit)`
+
+
+### Standard ERC721 functions from OpenZepplin
+
+
+### Additional necessary functions
+
+`function getLocation() public view virtual override returns (string[])`
+   
+Get location as a set of vectors 
+
+`function getEditAccess() public view virtual override returns (addresses[])`
+
+Get location as a set of ethereum address (including DAOs) that have edit access
+
+`function hasAccess(address) public view virtual override returns (bool)`
+
+Returns if the given address has access rights or not 
+
+
+'function balanceOf(address owner) public view virtual override returns (uint256)
+    function ownerOf(uint256 tokenId) public view virtual override returns (address) 
+    function name() public view virtual override returns (string memory) 
+    function symbol() public view virtual override returns (string memory) 
+
+
+`contract ERC721 is Context, ERC165, IERC721,IERC721Metadata {
+  
+  
+    constructor(string memory name_, string memory symbol_) 
+    function supportsInterface(bytes4 interfaceId) public view virtual override(ERC165, IERC165) returns (bool) 
+    function balanceOf(address owner) public view virtual override returns (uint256)
+    function ownerOf(uint256 tokenId) public view virtual override returns (address) 
+    function name() public view virtual override returns (string memory) 
+    function symbol() public view virtual override returns (string memory) 
+    function tokenURI(uint256 tokenId) p
+    function approve(address to, uint256 tokenId) public virtual override
+    function getApproved(uint256 tokenId) public view virtual override returns (address) 
+    function setApprovalForAll(address operator, bool approved) public virtual override
+    function isApprovedForAll(address owner, address operator) public view virtual override returns (bool) {
+        return _operatorApprovals[owner][operator];
+    function transferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) public virtual override
+
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId
+    ) 
+
+    function safeTransferFrom(
+        address from,
+        address to,
+        uint256 tokenId,
+        bytes memory _data
+    ) 
+
+    function _safeTransfer(
+        address from,
+        address to,
+        uint256 tokenId,
+        bytes memory _data
+    ) internal virtual 
+
+    function _exists(uint256 tokenId) internal view virtual returns (bool) 
+
+
+    function _isApprovedOrOwner(address spender, uint256 tokenId) internal view virtual returns (bool) 
+
+
+    function _safeMint(
+        address to,
+        uint256 tokenId,
+        bytes memory _data
+    ) internal virtual {
+
+    function _mint(address to, uint256 tokenId) internal virtual 
+
+
+    function _burn(uint256 tokenId) internal virtual
+
+
+    function _transfer(
+        address from,
+        address to,
+        uint256 tokenId
+    ) internal virtual 
+
+    function _approve(address to, uint256 tokenId) internal virtual {
+        _tokenApprovals[tokenId] = to;
+        emit Approval(ERC721.ownerOf(tokenId), to, tokenId);
+    }
+
+    function _setApprovalForAll(
+        address owner,
+        address operator,
+        bool approved
+    ) internal virtual
+
+
+    function _checkOnERC721Received(
+        address from,
+        address to,
+        uint256 tokenId,
+        bytes memory _data
+    ) 
+    
+    
+    function _beforeTokenTransfer(
+        address from,
+        address to,
+        uint256 tokenId
+    ) internal virtual {}
+    
+    
+
+
+
+
 
 TOADD: Metadata encompassing ms for data transfer per step, fidelity, testing formulas, testing framework, graphics of user interfaces. 
 
