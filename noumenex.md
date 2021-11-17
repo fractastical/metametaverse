@@ -10,6 +10,8 @@ Problem: I want to express an idea like "the cat is on the table"
 Solution: I use my mouth to utter the words "the cat is on the table." Other person hears the phrase and understands that the cat is on the table.
 
 Solution map:  `(node1((idea (noun(location)) -> (mouth(phrase))) -> (node2(ear(brain-interpreter)) -> (idea (noun(location)))`
+
+
 Additional context: both parties (node1 and node2) must have already seen "the cat" and have a mental model of what that describes. 
 
 For the solution map we can optimize for two functions, fidelity and speed. Fidelity is defined as the extent to which the object (in this case (noun(location) ) is the same in the original node (mind of person 1) and in the second node (mind of person 2). In this case, various testing functions are possible. For example, asking the question to both parties: Where is the cat?  What is on the table? This forces the knowledge transfer function to an effectively binary conclusion.  
