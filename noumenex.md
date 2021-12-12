@@ -96,10 +96,10 @@ Practically speaking this will need to be included as an addition to a token spe
 `getAccessControl(type.edit)`
 
 
-### Standard ERC721 functions from OpenZepplin
+### ERC721 Extensions
 
 
-### Additional necessary functions
+### Additional functions
 
 `function getLocation() public view virtual override returns (string[])`
    
