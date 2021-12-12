@@ -86,12 +86,6 @@ Go to  (1,2,3) then zoom 2 scale factors then go +3 in the x coordinates, +2 in 
 Insert a house at the coordinates (1,2,3) 
 
 
-#### Rotate (not sure this is necessary) 
-
-Rotating refers to the users view orientation  
-
-`-> (1,2,3) -> Rotate(20d,-20d) `
-
 
 ### Access Control
 
