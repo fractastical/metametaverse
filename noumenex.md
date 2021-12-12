@@ -1,5 +1,14 @@
 # Noumenex
-## Universal locator metaverse language
+
+## Language for generating metaverses
+
+Whereas, all human experience has hitherto been contained to the individual and is subject to miscommunication
+Whereby, new technologies allow the rapid sharing of complex data forms
+Thus, a protocol is proposed which assigns each aspect of human experience (referred to as "noumena") a coordinate in a global coordinate system and provides the appropriate data structures and actions for sharing these experiences.
+
+These clusters of human experiences when asssigned o na coordinate system are referred to as "metaverses" and thus, this protocol and its implementation are known as the "meta metaverse." 
+
+
 
 ### Rationale: Language as an optimization function
 
