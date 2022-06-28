@@ -18,3 +18,9 @@ First game
 with energy
 
 <img width="752" alt="Screenshot 2022-06-28 at 15 55 39" src="https://user-images.githubusercontent.com/589191/176273342-d3d68f62-68f3-49d3-9918-180977d585eb.png">
+
+
+Chaotic functions
+
+
+<img width="594" alt="Screenshot 2022-06-28 at 17 54 20" src="https://user-images.githubusercontent.com/589191/176306987-be623920-a166-4827-92cc-3cf768bae612.png">
