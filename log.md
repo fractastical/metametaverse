@@ -14,3 +14,7 @@ End of day 1
 First game
 
 <img width="525" alt="Screenshot 2022-06-28 at 13 09 20" src="https://user-images.githubusercontent.com/589191/176242235-c6e0515f-7d0e-40e2-8e5b-52592a742c16.png">
+
+with energy
+
+<img width="752" alt="Screenshot 2022-06-28 at 15 55 39" src="https://user-images.githubusercontent.com/589191/176273342-d3d68f62-68f3-49d3-9918-180977d585eb.png">
