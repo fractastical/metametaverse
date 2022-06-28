@@ -14,7 +14,7 @@ In the process of auditing other metaverses we learned that many of them have ve
 
 In addition to land display, we are actively working on several other adjacent projects: 
 
-Metameta lang - a language for developing transforms to reality to allow a dyanmic upgrade path and location for metaverses https://github.com/fractastical/etherea/blob/master/metametalang.md
+Metameta lang - a language for developing transforms to reality to allow a dynamic upgrade path and location for metaverses https://github.com/fractastical/etherea/blob/master/metametalang.md
 
 MetaBrow - a wallet for displaying metaverse related assets. 
 
