@@ -32,7 +32,5 @@ Allow dynamic insertion of custom lambdas
 
 First time we have a clear winner
 
-
-<img width="559" alt="Screenshot 2022-06-28 at 22 29 54" src="https://user-images.githubusercontent.com/589191/176338407-5f205932-7a08-41e4-8bfb-863e6f3c5601.png">
-
+<img width="530" alt="first_winner" src="https://user-images.githubusercontent.com/589191/176338898-354be770-40c6-4d8b-b717-03c6d569929e.png">
 
