@@ -29,9 +29,10 @@ Allow dynamic insertion of custom lambdas
 
 <img width="218" alt="Screenshot 2022-06-28 at 20 50 03" src="https://user-images.githubusercontent.com/589191/176327950-937895cb-d324-4729-9e9f-adee6eefae65.png">
 
-More steps and more complex functions
 
-[Uploading Screenshot 2022-06-28 at 22.25.54.png…]()
+First time we have a clear winner
 
+
+<img width="559" alt="Screenshot 2022-06-28 at 22 29 54" src="https://user-images.githubusercontent.com/589191/176338407-5f205932-7a08-41e4-8bfb-863e6f3c5601.png">
 
 
