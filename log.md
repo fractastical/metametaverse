@@ -24,3 +24,7 @@ Chaotic functions
 
 
 <img width="594" alt="Screenshot 2022-06-28 at 17 54 20" src="https://user-images.githubusercontent.com/589191/176306987-be623920-a166-4827-92cc-3cf768bae612.png">
+
+Allow dynamic insertion of custom lambdas 
+
+<img width="218" alt="Screenshot 2022-06-28 at 20 50 03" src="https://user-images.githubusercontent.com/589191/176327950-937895cb-d324-4729-9e9f-adee6eefae65.png">
