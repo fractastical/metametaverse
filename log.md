@@ -42,5 +42,7 @@ Pseudocode for metalambda controller
 
 Metalambdas now working with seeds and win counts. 
 
+<img width="435" alt="Screenshot 2022-07-10 at 02 24 26" src="https://user-images.githubusercontent.com/589191/178125663-284ec27e-731f-4488-92a3-237ad6ce0050.png">
 
+Arbitrary number of CAs each working with metalambda seeds. 
 
