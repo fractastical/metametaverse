@@ -35,3 +35,8 @@ First time we have a clear winner
 
 <img width="743" alt="Screenshot 2022-06-28 at 23 21 46" src="https://user-images.githubusercontent.com/589191/176344370-b45be0ff-39d7-4b6c-a871-f960055814fb.png">
 
+Pseudocode for metalambda controller 
+
+<img width="790" alt="Screenshot 2022-07-09 at 20 14 47" src="https://user-images.githubusercontent.com/589191/178119831-72b5758b-69b2-46fd-8a48-713a505cfacb.png">
+
+
