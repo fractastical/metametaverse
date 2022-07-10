@@ -1,0 +1,14 @@
+
+Metalambda is a self-evolving and mutating set of lambda functions (i.e. cellular automata) with a specific ruleset for their permutations.
+
+Specifcally, a metalambda begins with a six character seed which the control functions are passed in the format AABBCC
+
+AA - functions for determining the directionality and search function 
+BB - functions for determining the fight or flight or merge style when encountering other lifeforms  
+CC - functions for determining the genetic propogation style 
+
+Addtionally, CA are put in a simulated environment and tested against each other with a log of their victories and defeates. Winning lambdas are recorded and mutated with respect to certain variables. 
+
+(i.e. AA +/- rand % 10, BB +/- rand % 10, CC +/- rand % 10)
+
+This allows the lambda to create children that keep core parts of its genetic sequence but also that has some potentially advantagous variablity. 
