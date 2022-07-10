@@ -50,3 +50,6 @@ Arbitrary number of CAs each working with metalambda seeds.
 
 Added logging. Running about 40ms per computatational step. 
 
+<img width="288" alt="Screenshot 2022-07-10 at 14 20 13" src="https://user-images.githubusercontent.com/589191/178142756-3d1d9f36-3568-414f-9441-07831429b207.png">
+
+Knocked off about 10 ms per step. 
