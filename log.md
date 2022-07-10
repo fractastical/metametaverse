@@ -58,5 +58,8 @@ Knocked off about 10 ms per step.
 
 Creating system for logging all winners (and more involved system for generating metalambda seeds). 
 
+<img width="611" alt="Screenshot 2022-07-10 at 23 10 28" src="https://user-images.githubusercontent.com/589191/178161165-1404a0ef-eb68-4158-8b9e-7853347761f1.png">
+
+Combat mode partially working (spaceships with rays modifying the environment). 
 
 
