@@ -46,3 +46,7 @@ Metalambdas now working with seeds and win counts.
 
 Arbitrary number of CAs each working with metalambda seeds. 
 
+<img width="245" alt="Screenshot 2022-07-10 at 13 38 16" src="https://user-images.githubusercontent.com/589191/178141387-5820137c-446b-4cd9-9ce8-ffbffa539d29.png">
+
+Added logging. Running about 40ms per computatational step. 
+
