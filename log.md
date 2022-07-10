@@ -53,3 +53,10 @@ Added logging. Running about 40ms per computatational step.
 <img width="288" alt="Screenshot 2022-07-10 at 14 20 13" src="https://user-images.githubusercontent.com/589191/178142756-3d1d9f36-3568-414f-9441-07831429b207.png">
 
 Knocked off about 10 ms per step. 
+
+<img width="697" alt="Screenshot 2022-07-10 at 17 09 33" src="https://user-images.githubusercontent.com/589191/178148474-558a2a3b-2190-4c3b-ba1d-7329535b3bc9.png">
+
+Creating system for logging all winners (and more involved system for generating metalambda seeds). 
+
+
+
