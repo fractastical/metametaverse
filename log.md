@@ -68,3 +68,8 @@ Combat mode partially working (spaceships with rays modifying the environment).
 <img width="522" alt="Screenshot 2022-07-11 at 17 09 23" src="https://user-images.githubusercontent.com/589191/178284011-0b68b659-5204-4608-887f-464c01f28ce8.png">
 
 In line editor for lambda control functions
+
+<img width="708" alt="Screenshot 2022-07-11 at 18 24 15" src="https://user-images.githubusercontent.com/589191/178299956-5fe6a610-c37e-49c6-a3b7-521aadaba7b7.png">
+
+Combat mode now officially works (counting hits). 
+
