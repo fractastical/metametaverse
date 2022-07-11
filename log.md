@@ -27,6 +27,9 @@ Chaotic functions
 
 Allow dynamic insertion of custom lambdas 
 
+
+
+
 <img width="218" alt="Screenshot 2022-06-28 at 20 50 03" src="https://user-images.githubusercontent.com/589191/176327950-937895cb-d324-4729-9e9f-adee6eefae65.png">
 
 
@@ -62,4 +65,6 @@ Creating system for logging all winners (and more involved system for generating
 
 Combat mode partially working (spaceships with rays modifying the environment). 
 
+<img width="522" alt="Screenshot 2022-07-11 at 17 09 23" src="https://user-images.githubusercontent.com/589191/178284011-0b68b659-5204-4608-887f-464c01f28ce8.png">
 
+In line editor for lambda control functions
