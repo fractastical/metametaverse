@@ -76,3 +76,7 @@ Combat mode now officially works (counting hits).
 Recent "progress" has been in determining a metalayer for the mutation of the rules, securing compute resources to do large scale simuilations, auditing existing computational biology software, and considering a full or partial re-write in a faster language (e.g. Rust). Also considering rolling back the random elements and making it fully deterministic at the level of an individual simulation, partially for the reason that you always reach the same final state and this also allows multiple client implementation (and potentially a solution to proof-of-excellence). Also added some idle game-esque dynamics. 
 
 Academic paper draft ready for circluation 
+
+<img width="145" alt="Screenshot 2022-08-22 at 22 40 55" src="https://user-images.githubusercontent.com/589191/186014885-62e59b78-a08d-46ed-a0fd-545260e8da8a.png">
+
+Refactored code to draw key variables from 40 character hexadecimal string and so that it is fully deterministic based on that hash. 
