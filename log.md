@@ -80,3 +80,8 @@ Academic paper draft ready for circluation
 <img width="145" alt="Screenshot 2022-08-22 at 22 40 55" src="https://user-images.githubusercontent.com/589191/186014885-62e59b78-a08d-46ed-a0fd-545260e8da8a.png">
 
 Refactored code to draw key variables from 40 character hexadecimal string and so that it is fully deterministic based on that hash. 
+
+
+<img width="848" alt="Screenshot 2022-08-23 at 21 40 14" src="https://user-images.githubusercontent.com/589191/186251262-d5176569-7762-4234-9b4f-51ea1d45a6e0.png">
+
+Starting to get some cool effects 
