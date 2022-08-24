@@ -85,3 +85,7 @@ Refactored code to draw key variables from 40 character hexadecimal string and s
 <img width="848" alt="Screenshot 2022-08-23 at 21 40 14" src="https://user-images.githubusercontent.com/589191/186251262-d5176569-7762-4234-9b4f-51ea1d45a6e0.png">
 
 Starting to get some cool effects 
+
+<img width="977" alt="Screenshot 2022-08-24 at 15 42 03" src="https://user-images.githubusercontent.com/589191/186433945-b2293eb2-8228-4dd3-bf76-7a8e2e8eb72b.png">
+
+
