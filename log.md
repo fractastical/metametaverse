@@ -88,4 +88,6 @@ Starting to get some cool effects
 
 <img width="977" alt="Screenshot 2022-08-24 at 15 42 03" src="https://user-images.githubusercontent.com/589191/186433945-b2293eb2-8228-4dd3-bf76-7a8e2e8eb72b.png">
 
+Custom colors for Ukranian indepndence day 
 
+<img width="622" alt="Screenshot 2022-08-24 at 22 45 31" src="https://user-images.githubusercontent.com/589191/186520092-be77ffa8-b768-4784-9694-bd8e62d293dd.png">
