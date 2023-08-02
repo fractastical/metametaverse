@@ -1,5 +1,8 @@
 # Meta Metaverse
-## play to earn metaverse building game
+
+This repo has been deprecated check out OMA3 for updates on portaling (https://github.com/oma3dao) and metalambda.org for more technical writings.
+
+## building game
 
 
 Meta Metaverse is a 360 degree virtual reality map with digital asset backing in which each land mass is a 100x100x100 cube which be can subdivided and developed at multiple scale factors. This effectively makes it like the fractal zoom of metaverses. Each landmass is anchored to a star and the distance from the star can be variable and determined by the star owner. 
